@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/MyPureCloud/mobile-messenger-genesyscloudcore-spm.git",
         "state": {
           "branch": null,
-          "revision": "878ec792c2cb7eaa734fc9f0af25251ef398afbc",
-          "version": "1.13.0"
+          "revision": "aae65f07b118cd31f73d1e3caf76430b0560b4f9",
+          "version": "1.13.1"
         }
       }
     ]
